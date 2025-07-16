@@ -9,7 +9,7 @@ The project, apart from the scripts, has been carried out with:
 - Erika Astegiano
 
 ## General information
-**Course**: `Electronic Systems, Technologies and Measurements`, module of `Electronic Measurements` (`Polytechnic of Turin`)
+**Course**: `Electronic Systems, Technologies and Measurements`, module of `Electronic Measurements` (`Polytechnic of Turin`)  
 **Academic Year**: 2022-23, laboratory activities between November and December 2022  
 **Main teachers**: Simona Donati Guerrieri (module of `Electronic Systems and Technologies`), Alessio Carullo (module of `Electronic Measurements`), Giovanni Antonio Costanzo (laboratory professor)  
 **Topic**: implementation of Arduino and Python-based software to perform temperature measurements using analog sensors, and propagate their uncertainty.
